@@ -1,5 +1,5 @@
 {
-  "name": "easy-json",
+  "name": "@zs_master1/easy-json",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,9 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZSmaster1/easy-json.git"
   }
 }
